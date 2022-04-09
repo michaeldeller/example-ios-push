@@ -1,4 +1,3 @@
-# example-ios-push
 
 ## To use
 
