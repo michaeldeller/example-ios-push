@@ -15,6 +15,7 @@
 ##  limitations under the License.
 ##
 ##  https://developer.apple.com/documentation/usernotifications/sending_push_notifications_using_command-line_tools
+##
 
 TEAM_ID=XXX			# From developer.apple.com
 TOKEN_KEY_FILE_NAME=YYY		# From developer.apple.com
